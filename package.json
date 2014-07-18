@@ -1,0 +1,23 @@
+{
+  "name": "meta",
+  "version": "0.0.1",
+  "description":"MasterControl infocard metadata generation task",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mscienski/meta.git"
+  },
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "grunt": "~0.4"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1"
+  },
+  "files": [
+    "tasks",
+    "LICENSE"
+  ],
+  "_id": "meta@0.0.1",
+  "_from": "meta@"
+}
